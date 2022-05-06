@@ -1,0 +1,17 @@
+JavaScript
+Se utilizan las siguientes librerías 
+-> cheerio
+-> request-promise
+-> fs
+-> csv-parser
+se instalan con el siguiente comando -> npm install cheerio request request-promise fs csv-parser
+tambien se requiere las siguientes librerias
+-> express
+-> cors 
+Para ejecutar el archivo
+node scrapingGit.js
+Para abrir el grafico de barras ir al archivo document.html en el explorador de archivos
+
+Tambien el programa utiliza la libreria puppeteer, su funcion es abrir el navegador, una pestaña y muestra el grafico de barras en su navegador predeterminado de su maquina
+Intalacion npm install puppeteer
+-> puppeteer
